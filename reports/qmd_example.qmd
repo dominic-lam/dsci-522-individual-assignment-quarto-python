@@ -4,10 +4,13 @@ author: "Tiffany Timbers & Jordan Bourak"
 format: 
     html:
          toc: true
-         toc-location: left
+         toc-location: right
          tbl-cap-location: bottom
 bibliography: references.bib
+output-dir: ../docs
 editor: source
+website:
+    base-url: /dsci-522-individual-assignment-quarto-python
 ---
 
 ```{python}
