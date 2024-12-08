@@ -6,11 +6,9 @@ format:
          toc: true
          toc-location: right
          tbl-cap-location: bottom
+         embed-resources: true
 bibliography: references.bib
-output-dir: ../docs
 editor: source
-website:
-    base-url: /dsci-522-individual-assignment-quarto-python
 ---
 
 ```{python}
